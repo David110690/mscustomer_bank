@@ -1,4 +1,4 @@
-package com.nttdata.customer.entity;
+package NTTDATA.mscustomer_bank.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

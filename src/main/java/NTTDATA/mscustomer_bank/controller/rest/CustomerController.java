@@ -1,7 +1,8 @@
-package com.nttdata.customer.controller.rest;
+package NTTDATA.mscustomer_bank.controller.rest;
 
-import com.nttdata.customer.entity.Customer;
-import com.nttdata.customer.service.ICustomerService;
+import NTTDATA.mscustomer_bank.service.ICustomerService;
+import NTTDATA.mscustomer_bank.entity.Customer;
+import NTTDATA.mscustomer_bank.service.ICustomerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Mono;
