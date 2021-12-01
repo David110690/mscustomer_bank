@@ -18,6 +18,7 @@ public class Customer {
     private String id;
     private String customerIdNumber;
     private String name;
+    private String lastname;
     private String email;
     private String phone;
     private String address;
